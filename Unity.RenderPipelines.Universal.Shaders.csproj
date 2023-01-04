@@ -71,6 +71,7 @@
      <Folder Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders" />
      <None Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders\XR\XROcclusionMesh.shader" />
      <None Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders\Unity.RenderPipelines.Universal.Shaders.asmdef" />
+     <None Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders\IrradianceVolumeInterpolation.compute" />
      <None Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders\Terrain\WavingGrassPasses.hlsl" />
      <None Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders\PostProcessing\FinalPost.shader" />
      <None Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders\LitInput.hlsl" />
@@ -110,6 +111,7 @@
      <None Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders\2D\Include\NormalsRenderingShared.hlsl" />
      <None Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders\Utils\StencilDeferred.shader" />
      <None Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders\Nature\SpeedTree8Input.hlsl" />
+     <None Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders\IrradianceVolumeDebug.shader" />
      <None Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders\DepthOnlyPass.hlsl" />
      <None Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders\Terrain\TerrainLitAdd.shader" />
      <None Include="Packages\com.unity.render-pipelines.universal@10.10.1\Shaders\Particles\ParticlesInput.hlsl" />

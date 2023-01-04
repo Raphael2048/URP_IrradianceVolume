@@ -151,6 +151,11 @@
      <Compile Include="Packages\com.unity.render-pipelines.universal@10.10.1\Runtime\2D\Renderer2D.cs" />
      <Compile Include="Packages\com.unity.render-pipelines.universal@10.10.1\Runtime\MotionVectors.cs" />
      <Compile Include="Packages\com.unity.render-pipelines.universal@10.10.1\Runtime\PostProcessUtils.cs" />
+     <Compile Include="Packages\com.unity.render-pipelines.universal@10.10.1\Runtime\RendererFeatures\IrradianceVolume\IrradianceVolumeOctree.cs" />
+     <Compile Include="Packages\com.unity.render-pipelines.universal@10.10.1\Runtime\RendererFeatures\IrradianceVolume\IrradianceVolumeManager.cs" />
+     <Compile Include="Packages\com.unity.render-pipelines.universal@10.10.1\Runtime\RendererFeatures\IrradianceVolume\IrradianceVolumeImportantArea.cs" />
+     <Compile Include="Packages\com.unity.render-pipelines.universal@10.10.1\Runtime\RendererFeatures\IrradianceVolume\GeometryUtils.cs" />
+     <Compile Include="Packages\com.unity.render-pipelines.universal@10.10.1\Runtime\RendererFeatures\IrradianceVolume\IrradianceVolumeRenderFeature.cs" />
      <Folder Include="Packages\com.unity.render-pipelines.universal@10.10.1\Runtime\Materials\PhysicalMaterial3DsMax" />
      <Folder Include="Packages\com.unity.render-pipelines.universal@10.10.1\Runtime\External" />
      <Folder Include="Packages\com.unity.render-pipelines.universal@10.10.1\Runtime\Passes" />
